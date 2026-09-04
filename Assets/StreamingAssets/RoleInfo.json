@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "res": "Role/ToonSoldiers_engineer",
+        "lockMoney": 0,
+        "name": "Engineer",
+        "type": 1,
+        "hitEff": "Eff/ToonSoldiers_engineer",
+        "tips": "整天拿着个扳手cos管道工, 我也不知道他为啥这么做, 反正他就是这么做了"
+    },
+    {
+        "id": 1,
+        "res": "Role/ToonSoldiers_flammer",
+        "lockMoney": 300,
+        "name": "Flammer",
+        "type": 2,
+        "hitEff": "Eff/ToonSoldiers_flammer",
+        "tips": "他拿着一把喷火枪, 只不过外人都觉得他拿着的那把枪只是一把水枪"
+    },
+    {
+        "id": 2,
+        "res": "Role/ToonSoldiers_gunner",
+        "lockMoney": 200,
+        "name": "Gunner",
+        "type": 2,
+        "hitEff": "Eff/ToonSoldiers_gunner",
+        "tips": "胖子配左轮"
+    },
+    {
+        "id": 3,
+        "res": "Role/ToonSoldiers_infantry",
+        "lockMoney": 100,
+        "name": "Infantry",
+        "type": 2,
+        "hitEff": "Eff/ToonSoldiers_infantry",
+        "tips": "瘦瘦小小的, 感觉是一个很快速的小伙子, 实际上并不快速,而且也并不是小伙子"
+    },
+    {
+        "id": 4,
+        "res": "Role/ToonSoldiers_medic",
+        "lockMoney": 0,
+        "name": "Medic",
+        "type": 1,
+        "hitEff": "Eff/ToonSoldiers_medic",
+        "tips": "为什么大家对于医疗兵的固有偏见是拿着刀的?一个马上要上战场, 但是却只被分配到一把刀的医生如是说道"
+    },
+    {
+        "id": 5,
+        "res": "Role/ToonSoldiers_officer",
+        "lockMoney": 400,
+        "name": "Officer",
+        "type": 2,
+        "hitEff": "Eff/ToonSoldiers_officer",
+        "tips": "作为一个火车的列车员, 平时也不怎么参加战斗, 只是用弩箭打打猎物"
+    }
+]

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ToonSoldiers_infantryAnimator
+  m_Controller: {fileID: 9100000, guid: 60ccf014d207b29418ef7cdbb2c80f59, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 14a6cfa2b968de049a6c79eb177c72d0, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 354a7204e11f37e40bf5fb5f281167bd, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: de10cb89874e73c49b10494f519e107c, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 2e680f73a503c59439a46e36fa7f532c, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 06c5057d270b8cd478b43046fc51f5ce, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 0237a731ef257ae4aa09b06a37e3318c, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 6c1cbad71c2cc0c48abaf360398bd6a5, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 7b0dc4af7e2a6364a876ba515a24a6ec, type: 3}

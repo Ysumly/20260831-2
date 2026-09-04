@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "imgRes": "Image/GameScene1",
+        "name": "疯狂树林",
+        "sceneName": "GameScene1",
+        "tips": "全是树, 全是人, 这里没有树人"
+    },
+    {
+        "id": 2,
+        "imgRes": "Image/GameScene2",
+        "name": "极寒雪地",
+        "sceneName": "GameScene2",
+        "tips": "好厚的雪, 哎呀, 怎么死了"
+    },
+    {
+        "id": 3,
+        "imgRes": "Image/GameScene3",
+        "name": "熔岩旱土",
+        "sceneName": "GameScene3",
+        "tips": "这里太干燥了, 保持内裤湿润, 报告长官, 做不到!"
+    }
+]
